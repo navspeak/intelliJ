@@ -20,6 +20,8 @@ IntelliJ Cheatsheet (Windows Default and Mac OS X 10.5+)
 * Ctrl + _*Shift*_ + N (Cmd + _*Shift*_ + O ) => Navigate to file
 * Ctrl + _*Shift*_ + _*Alt*_ + N (Cmd + _*Alt*_ + O ) => Navigate to Symbol
   - j.u.c.c.DEFAULT_CAPACITY => Search DEFAULT_CAPACITY in java.util.concurrent.ConcurrentHashMap
+* Ctrl + B (Cmd + B) => Class Declaration
+* Ctrl + Alt + Right / Left (Cmd + ] / \[) => Forward / Backward
 
 ## Search 
 * Find in File: Ctrl + F (Cmd + F ) 
