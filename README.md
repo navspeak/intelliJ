@@ -1,18 +1,24 @@
 # intelliJ
 IntelliJ Cheatsheet (Windows Default and Mac OS X 10.5+)
+https://www.youtube.com/watch?v=eq3KiAH4IBI
+https://www.youtube.com/watch?v=Cv-84klCL7Q
 
 ## God Shortcuts
-* Double shift : Search Everywhere
+* Double shift : Search Everywhere (Enter / to see commands)
 * Ctrl + Shift + A (Cmd + Shift + A) : Find action
+* Ctrl + E (Cmd+E) : Recent Files
+* Shift + Ctrl/Cmd + E : Recent Location
 
 ## Project and Windows
-* Project : Alt + 1
-* Version Control : Alt + 9
-* Terminal : Alt + 12
+* Project : Alt/Cmd + 1 
+* Version Control : Alt/Cmd + 9
+* Terminal : Alt + F12
 * Hide all Windows : Shift + Ctrl + F12 (Shift + Cmd + F12)
 * Quick Switch mode: Ctrl + `` ` `` => Distraction Free Mode
 * Settings : Ctrl + Alt + S (Cmd + ,)
 * Project Structure : Shift + Ctrl + Alt + S (Cmd + ;)
+* New File : Alt + Insert (Cmd + N)
+* Ctrl (two times) - Run anything
 
 ## Navigation
 * double shift
@@ -20,12 +26,21 @@ IntelliJ Cheatsheet (Windows Default and Mac OS X 10.5+)
 * Ctrl + _*Shift*_ + N (Cmd + _*Shift*_ + O ) => Navigate to file
 * Ctrl + _*Shift*_ + _*Alt*_ + N (Cmd + _*Alt*_ + O ) => Navigate to Symbol
   - j.u.c.c.DEFAULT_CAPACITY => Search DEFAULT_CAPACITY in java.util.concurrent.ConcurrentHashMap
-* Ctrl + B (Cmd + B) => Class Declaration
 * Ctrl + Alt + Right / Left (Cmd + ] / \[) => Forward / Backward
+
+## Class Hierarchy
+* Ctrl + B (Cmd + B) =>  Declaration (of a method, variable )
+* Alt + Ctrl + B (Alt + Cmd + B) =>  Implementation
+* Alt + F7 => Usage
+* Ctrl + Shift + B (Cmd + Shift + B) => Type Declaration
+* Ctrl + U (Cmd + U) => Super Method
+* Shift + Cmd + T => Test Subject for Tests or on Class to see tests for that class
+
 
 ## Search 
 * Find in File: Ctrl + F (Cmd + F ) 
 * Find occurences in Path: Ctrl + Shift + F (Cmd + Shift + F)
+* Replace : replace F with R
 
 ## Project Window Resize
 * shift + ctrl + Right / Left
@@ -49,4 +64,16 @@ IntelliJ Cheatsheet (Windows Default and Mac OS X 10.5+)
 ## Completion
 * Basic Completion: Ctrl + Space 
 * Smart Completion: Shift + Ctrl + Space (e.g. BufferedReader bf = new <Use Smart not Basic>)
+* Complete Current Statement : Shift + Ctrl + Enter (Shift + Cmd + Enter) 
 * Parameters : Ctrl + P (Cmd + P)
+* Hippie-Completion (cylic completion) : Alt + / (say I have variable test1 to test10. If I type test and press Alt + /, it will loop thru all the values)
+  
+ ## Live Templates
+ * Ctrl + J (Cmd + J)
+ * Surround Template: Alt + Ctrl + T (Alt + Cmd + T)
+ * Try this. 
+ ```Java
+ Person p = new Person()
+ // p.[in suggestion you can see that you have null and notnull which evaluates to expression]
+ ```
+ 
