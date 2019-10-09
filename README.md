@@ -26,3 +26,27 @@ IntelliJ Cheatsheet (Windows Default and Mac OS X 10.5+)
 ## Search 
 * Find in File: Ctrl + F (Cmd + F ) 
 * Find occurences in Path: Ctrl + Shift + F (Cmd + Shift + F)
+
+## Project Window Resize
+* shift + ctrl + Right / Left
+
+## Editing
+* Extend Selection : Ctrl + W (Option + Up)
+* Deselect : Shift + Ctrl + W (Option + down)
+* Move selection Up / Down: Shift + Ctrl + Up /down(Shift + Option + Up/Down)
+* Duplicate a line : Ctrl + D (Cmd + D)
+* Delete a line : Ctrl + Y (Cmd + Backspace)
+* Clip board history : Shift + Ctrl + V (Shift + Cmd + V)
+* Word Selection : Alt + J (Ctrl + G)
+* Unselect: Shift + Alt + J (Shift + Ctrl + G)
+* Move to next occurence : F3 (Cmd + G)
+* Multiple cursors : Alt + Shift + button1 click
+* Auto indent: Ctrl + Alt + I 
+* Reformat : Ctrl + Alt + L
+* Select a method (Alt + J or Ctrl + G) > Ctrl + Enter > Change code style if u wish
+* Alt + Enter => Lang inject (Json, regex, html etc)
+
+## Completion
+* Basic Completion: Ctrl + Space 
+* Smart Completion: Shift + Ctrl + Space (e.g. BufferedReader bf = new <Use Smart not Basic>)
+* Parameters : Ctrl + P (Cmd + P)
