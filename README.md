@@ -67,6 +67,10 @@ https://www.youtube.com/watch?v=Cv-84klCL7Q
 * Complete Current Statement : Shift + Ctrl + Enter (Shift + Cmd + Enter) 
 * Parameters : Ctrl + P (Cmd + P)
 * Hippie-Completion (cylic completion) : Alt + / (say I have variable test1 to test10. If I type test and press Alt + /, it will loop thru all the values)
+* Intention action: alt + enter (like static import )
+
+## Extract
+* Ctrl/Cmd + Alt + V/P/M
   
  ## Live Templates
  * Ctrl + J (Cmd + J)
