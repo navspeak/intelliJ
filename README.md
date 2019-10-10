@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=Cv-84klCL7Q
 * Project Structure : Shift + Ctrl + Alt + S (Cmd + ;)
 * New File : Alt + Insert (Cmd + N)
 * Ctrl (two times) - Run anything
+* Alt + Home (Cmd + Up) - Navigation bar
 
 ## Navigation
 * double shift
