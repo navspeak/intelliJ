@@ -28,6 +28,7 @@ https://www.youtube.com/watch?v=Cv-84klCL7Q
 * Ctrl + _*Shift*_ + _*Alt*_ + N (Cmd + _*Alt*_ + O ) => Navigate to Symbol
   - j.u.c.c.DEFAULT_CAPACITY => Search DEFAULT_CAPACITY in java.util.concurrent.ConcurrentHashMap
 * Ctrl + Alt + Right / Left (Cmd + ] / \[) => Forward / Backward
+* Cmd / ctrl + F12 => list all methods in a class
 
 ## Class Hierarchy
 * Ctrl + B (Cmd + B) =>  Declaration (of a method, variable )
