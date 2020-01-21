@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=Cv-84klCL7Q
 ## God Shortcuts
 * Double shift : Search Everywhere (Enter / to see commands)
 * Ctrl + Shift + A (Cmd + Shift + A) : Find action
-* Ctrl + E (Cmd+E) : Recent Files (use Tab Placement as None to show only one file)[https://www.jetbrains.com/help/idea/settings-editor-tabs.html]
+* Ctrl + E (Cmd+E) : Recent Files [use Tab Placement as None to show only one file](https://www.jetbrains.com/help/idea/settings-editor-tabs.html)
 * Shift + Ctrl/Cmd + E : Recent Location
 
 ## Project and Windows
