@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=Cv-84klCL7Q
 * Ctrl + Shift + A (Cmd + Shift + A) : Find action
 * Ctrl + E (Cmd+E) : Recent Files [use Tab Placement as None to show only one file](https://www.jetbrains.com/help/idea/settings-editor-tabs.html)
 * Shift + Ctrl/Cmd + E : Recent Location
+* Ctrl + Shift + C : Recent changes
 
 ## Project and Windows
 * Project : Alt/Cmd + 1 
